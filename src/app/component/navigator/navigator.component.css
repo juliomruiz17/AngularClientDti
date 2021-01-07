@@ -1,0 +1,17 @@
+.slidenav {
+    background-color: rgb(131, 28, 199);
+    width: 200px;
+  }
+  
+  .slidenav a {
+    color: #ffffff;
+  }
+  
+  .slidenav i {
+    padding-right: 10px;
+  }
+  
+  .content {
+    padding: 16px;
+    background-color: rgb(230, 227, 229)
+  }
