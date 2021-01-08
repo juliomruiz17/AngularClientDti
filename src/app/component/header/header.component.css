@@ -1,7 +1,7 @@
 .header{
     display: flex;
     align-items: center;
-    background-color: rgb(122, 16, 148);
+    background-color: rgb(186, 62, 218);
   }
   
   .header a {
@@ -9,7 +9,7 @@
     align-items: center;
     text-decoration: none;
   }
-  
+    
   .header .logo {
     max-height: 60px;
   }
@@ -17,7 +17,6 @@
   .header .title-group {
     padding-left: 30px;
   }
-  
   
   .header .title-group i {
     padding-right: 10px;
